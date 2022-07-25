@@ -1,3 +1,7 @@
+#' ---
+#' output: github_document
+#' ---
+
 library(usethis)
 library(dplyr)
 library(readr)
